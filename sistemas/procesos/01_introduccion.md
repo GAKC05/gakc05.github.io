@@ -13,15 +13,7 @@ El gestor de procesos es un componente esencial de un sistema operativo encargad
 6. [Gestión de Propiedades y Políticas](indice/08_gestion_de_propiedades_y_politicas.md)
 <br>
 <br>
-
 <div align="center">
 
   [VOLVER](../README.md) &nbsp;&nbsp; [MENÚ PRINCIPAL](../../README.md)
-  
 </div>
-
-
-
-
-
-

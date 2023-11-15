@@ -1,5 +1,4 @@
-# Redes Locales
-
+# REDES LOCALES
 
 <div align="center">
 <br>

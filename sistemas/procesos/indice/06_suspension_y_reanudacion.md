@@ -9,4 +9,4 @@
 </p>
 <br>
 
-[REGRESAR](../../../../gakc05.github.io/sistemas/procesos/01_introduccion.md)
+[REGRESAR](01_introduccion.md)

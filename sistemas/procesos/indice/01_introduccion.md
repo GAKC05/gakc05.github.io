@@ -15,5 +15,5 @@ El gestor de procesos es un componente esencial de un sistema operativo encargad
 <br>
 <div align="center">
 
-  [VOLVER](../../sistemas/) &nbsp;&nbsp; [MENÚ PRINCIPAL](../../../gakc05.github.io/)
+  [VOLVER](../../README.md) &nbsp;&nbsp; [MENÚ PRINCIPAL](../../../README.md)
 </div>

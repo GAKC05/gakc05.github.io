@@ -5,5 +5,5 @@
 <br>
 <div align="center">
 
-[MENÚ PRINCIPAL](../../gakc05.github.io/)
+[MENÚ PRINCIPAL](../README.md)
 </div>

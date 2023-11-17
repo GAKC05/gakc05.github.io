@@ -5,5 +5,5 @@
 <br>
 <div align="center">
 
-[MENÚ PRINCIPAL](/README.md)
+<a href="../README.md">MENÚ PRINCIPAL</a>
 </div>

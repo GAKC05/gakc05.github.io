@@ -12,4 +12,4 @@ Esta imagen esta propocionado de una pagina web.
 </p>
 <br>
 
-[REGRESAR](01_introduccion.md)
+[REGRESAR](../README.md)

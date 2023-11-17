@@ -3,5 +3,5 @@
 <div align="center">
 <br>
 
-[MENÚ PRINCIPAL](../../gakc05.github.io/)
+[REGRESAR](../README.md)
 </div>

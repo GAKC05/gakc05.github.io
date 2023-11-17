@@ -10,4 +10,4 @@
 </p>
 <br>
 
-[REGRESAR](01_introduccion.md)
+[REGRESAR](../README.md)

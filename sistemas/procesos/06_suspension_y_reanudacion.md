@@ -10,7 +10,7 @@
 <br>
 <p align="center">
 <a href="https://gakc05.github.io/sistemas/procesos/indice/01_introduccion.html" class="enlace-invisible">
-  <img src="../../botones_imagenes/boton_regresar.png" alt="" style="width: 10%;">
+  <img src="../../botones_imagenes/boton_regresar.png" alt="" style="width: 5%;">
 </a>
 </p>
 

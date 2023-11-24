@@ -5,11 +5,19 @@
 -- Las políticas pueden ser ajustables para adaptarse a diferentes cargas de trabajo y requisitos del sistema, optimizando así el rendimiento y la eficiencia general del sistema operativo.
 
 <p align="center">
-    <a href="https://ocw.ehu.eus/pluginfile.php/48902/mod_resource/content/13/html/Recursos/P03/Planificacion_procesos.html">
-  <img src="./imagenes/terminacion_de_procesos.jpg" alt="Esta imagen esta propocionado de una pagina web">
+  <a href="https://ocw.ehu.eus/pluginfile.php/48902/mod_resource/content/13/html/Recursos/P03/Planificacion_procesos.html" class="enlace-invisible">
+    <img src="./imagenes/gestion_de_propiedades_y_politicas.jpg" alt="Esta imagen está proporcionada de una pagina web">
+  </a>
   <br>
-Esta imagen esta propocionado de una pagina web.
+  Esta imagen esta propocionado de una pagina web.
 </p>
-<br>
+
+<style>
+.enlace-invisible {
+    text-decoration: none;
+    color: transparent;
+    /* Otros estilos que desees agregar */
+}
+</style>
 
 [REGRESAR](01_introduccion.md)

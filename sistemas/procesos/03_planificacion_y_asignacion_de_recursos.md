@@ -10,4 +10,16 @@
 </p>
 <br>
 
-[REGRESAR](01_introduccion.md)
+<p align="center">
+<a href="https://gakc05.github.io/sistemas/procesos/indice/01_introduccion.html" class="enlace-invisible">
+  <img src="../../botones_imagenes/boton_regresar.png" alt="" style="width: 10%;">
+</a>
+</p>
+<br>
+<style>
+.enlace-invisible {
+    text-decoration: none;
+    color: transparent;
+    /* Otros estilos que desees agregar */
+}
+</style>

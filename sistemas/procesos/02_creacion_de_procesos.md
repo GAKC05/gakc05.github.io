@@ -9,5 +9,16 @@
   <img src="imagenes/creacion_de_procesos_image.jpg" alt="">
 </p>
 <br>
+<p align="center">
+<a href="https://gakc05.github.io/sistemas/procesos/indice/01_introduccion.html" class="enlace-invisible">
+  <img src="../../botones_imagenes/boton_regresar.png" alt="" style="width: 10%;">
+</a>
+</p>
 
-[REGRESAR](01_introduccion.md)
+<style>
+.enlace-invisible {
+    text-decoration: none;
+    color: transparent;
+    /* Otros estilos que desees agregar */
+}
+</style>

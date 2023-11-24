@@ -11,4 +11,18 @@ El gestor de procesos es un componente esencial de un sistema operativo encargad
 4. [Suspensión y Reanudación](06_suspension_y_reanudacion.md)
 5. [Terminación de Procesos](07_terminacion_de_procesos.md)
 6. [Gestión de Propiedades y Políticas](08_gestion_de_propiedades_y_politicas.md)
+
 <br>
+<p align="center">
+<a href="https://gakc05.github.io/" class="enlace-invisible">
+  <img src="../../botones_imagenes/boton_menu_principal.png" alt="" style="width: 10%;">
+</a>
+</p>
+
+<style>
+.enlace-invisible {
+    text-decoration: none;
+    color: transparent;
+    /* Otros estilos que desees agregar */
+}
+</style>

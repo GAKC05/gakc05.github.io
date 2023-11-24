@@ -5,11 +5,19 @@
 -- El sistema operativo también actualiza la información del proceso y notifica al programa principal o al usuario sobre la finalización del proceso.
 
 <p align="center">
-  <a href="https://1984.lsi.us.es/wiki-ssoo/index.php/Estados_de_los_procesos">
-  <img src="./imagenes/terminacion_de_procesos.jpg" alt="Esta imagen esta propocionado desde Wikipedia">
+  <a href="https://1984.lsi.us.es/wiki-ssoo/index.php/Estados_de_los_procesos" class="enlace-invisible">
+    <img src="./imagenes/terminacion_de_procesos.jpg" alt="Esta imagen está proporcionada desde Wikipedia">
+  </a>
   <br>
-Esta imagen esta propocionado desde Wikipedia.
+  Esta imagen está proporcionada desde Wikipedia.
 </p>
-<br>
+
+<style>
+.enlace-invisible {
+    text-decoration: none;
+    color: transparent;
+    /* Otros estilos que desees agregar */
+}
+</style>
 
 [REGRESAR](01_introduccion.md)
